@@ -52,7 +52,7 @@ Never put `GITHUB_TOKEN`, credentials or secrets in this project or any `VITE_` 
 
 ## Deployment
 
-Deploy only to GitHub Pages at https://emanueldemarao18.github.io/github-battle-web/. See [deployment setup and CORS](docs/deployment.md). Deployment is configured and Azure App Service CORS allows the frontend origins listed in the deployment guide. Repository Pages settings still need to be enabled before publishing.
+Deploy only to GitHub Pages at https://emanueldemarao18.github.io/github-battle-web/. See [deployment setup and CORS](docs/deployment.md). Deployment is configured and Azure App Service CORS allows the frontend origins listed in the deployment guide. GitHub Pages is configured to use GitHub Actions; merging to main triggers publication.
 
 ## Quality targets
 
