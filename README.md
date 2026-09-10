@@ -61,3 +61,9 @@ The interface targets public mobile/4G usage, with no authentication or SEO-depe
 Tests cover input validation, API errors and malformed data, API-owned scoring, unavailable metrics, shared URLs, ties, retries, cancellation and clipboard fallback. Manual keyboard, narrow-screen and screen-reader checks should accompany changes to the interface.
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Brand assets and link previews
+
+The static HTML includes Open Graph and Twitter Card metadata so link crawlers do not need to execute React. Shared matchups use the same project cover; previews do not contain live scores. Browsers use the terminal-mark SVG favicon, with PNG and Apple touch icons provided too.
+
+To regenerate the committed PNG files after editing `assets/social-preview.svg` or `public/favicon.svg`, run `node scripts/generate-brand-assets.mjs`. The cover is 1200 × 630. If the deployment URL changes, update the absolute canonical and social URLs in `index.html`. Messaging services may cache an older preview after deployment.

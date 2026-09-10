@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#101412"/>
+  <path d="M0 1h1200" stroke="#b7ee80" stroke-width="10"/>
+  <rect x="64" y="56" width="52" height="52" rx="12" fill="#b7ee80"/>
+  <path d="m77 72 10 10-10 10m16 0h12" fill="none" stroke="#172212" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="134" y="93" fill="#ecf0e8" font-size="30" font-weight="700">GitHub Battle<tspan fill="#b7ee80">.</tspan></text>
+    <text x="66" y="211" fill="#b7ee80" font-size="16" letter-spacing="3">THE OPEN-SOURCE ARENA</text>
+    <text x="60" y="300" fill="#ecf0e8" font-size="78" font-weight="700" letter-spacing="-3">Great code.</text>
+    <text x="60" y="386" fill="#b7ee80" font-size="78" font-weight="700" letter-spacing="-3">Friendly rivalry.</text>
+    <text x="66" y="450" fill="#b9c5b3" font-size="24">Two GitHub profiles. Five categories. One battle.</text>
+    <rect x="855" y="173" width="267" height="128" rx="14" fill="#1b251b" stroke="#485d3a"/>
+    <text x="879" y="207" fill="#b9c5b3" font-size="14" letter-spacing="2">PLAYER 01</text>
+    <path d="m883 237 13 12-13 12m23 0h20" fill="none" stroke="#b7ee80" stroke-width="5" stroke-linecap="round"/>
+    <path d="M955 239h140m-140 17h95m-95 17h120" stroke="#4b6240" stroke-width="6" stroke-linecap="round"/>
+    <text x="974" y="337" fill="#b7ee80" font-size="20" font-weight="700">VS</text>
+    <rect x="855" y="359" width="267" height="128" rx="14" fill="#1b251b" stroke="#485d3a"/>
+    <text x="879" y="393" fill="#b9c5b3" font-size="14" letter-spacing="2">PLAYER 02</text>
+    <path d="m883 423 13 12-13 12m23 0h20" fill="none" stroke="#b7ee80" stroke-width="5" stroke-linecap="round"/>
+    <path d="M955 425h110m-110 17h140m-140 17h90" stroke="#4b6240" stroke-width="6" stroke-linecap="round"/>
+    <path d="M64 535h1072" stroke="#34432e"/>
+    <text x="66" y="579" fill="#aab5a8" font-size="16">FOLLOWERS / REPOSITORIES / STARS / COMMITS / STREAKS</text>
+    <text x="1136" y="579" text-anchor="end" fill="#b9c5b3" font-size="16">By Emanuel De Marão</text>
+  </g>
+</svg>
